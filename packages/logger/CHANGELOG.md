@@ -1,5 +1,11 @@
 # @terai/logger
 
+## 0.0.3
+
+### Patch Changes
+
+- 2f411c1: v0.0.3
+
 ## 0.0.2
 
 ### Patch Changes
